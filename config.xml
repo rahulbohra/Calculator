@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "in.kitnahua.calculator"
+	version   = "1.0.0">
+	<name>Calculator</name>
+	<description>
+		This application, usually known as Calculator, is being designed so smoothly that you can easily calculate your problems.
+	</description>
+	<author email="rahulthespaceman@gmail.com">
+		Rahul Bohra
+	</author>
+</widget>
