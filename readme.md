@@ -1,0 +1,1 @@
+This application, usually known as Calculator, is being designed so smoothly that you can easily calculate your problems.
